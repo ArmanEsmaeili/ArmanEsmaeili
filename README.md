@@ -1,4 +1,6 @@
-![Header](https://raw.githubusercontent.com/ArmanEsmaeili/ArmanEsmaeili/main/result.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ArmanEsmaeili/ArmanEsmaeili/main/result.gif" alt="Header GIF">
+</div>
 
 <h1 align="center">Hi 👋, I'm Arman Esmaeili</h1>
 <h3 align="center">A passionate AI researcher focused on language models</h3>
