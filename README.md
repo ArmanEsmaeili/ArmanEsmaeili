@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **deep learning, NLP, and reinforcement learning.**
 
-- 👯 I’m looking to collaborate on **AI research projects, particularly around language model applications.**
+- 🙋‍♂️ I’m looking to collaborate on **AI research projects, particularly around language model applications.**
 
 - 📫 How to reach me **4rmanesmaeili@gmail.com**
 
