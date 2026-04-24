@@ -1,27 +1,35 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArmanEsmaeili/ArmanEsmaeili/main/result.gif" alt="Header GIF">
+  <img src="https://raw.githubusercontent.com/ArmanEsmaeili/ArmanEsmaeili/main/result.gif" alt="Header">
 </div>
 
-<h1 align="center">Hi 👋, I'm Arman Esmaeili</h1>
-<h3 align="center">A passionate AI researcher focused on language models</h3>
+# Arman Esmaeili
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanesmaeili&label=Profile%20views&color=0e75b6&style=flat" alt="armanesmaeili" /> </p>
+**AI Engineer** specializing in Large Language Models and Natural Language Processing
 
-- 🔭 I’m currently working on **developing and fine-tuning language models.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arman-esmaeili)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:4rmanesmaeili@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=armanesmaeili&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **deep learning, NLP, and reinforcement learning.**
+## About
 
-- 🙋‍♂️ I’m looking to collaborate on **AI research projects, particularly around language model applications.**
+I build and optimize language models with a focus on practical applications and performance. My work spans model fine-tuning, prompt engineering, and deploying LLM-based systems at scale.
 
-- 📫 How to reach me **4rmanesmaeili@gmail.com**
+**Current Focus:**
+- Fine-tuning and adapting foundation models for domain-specific tasks
+- Implementing efficient inference pipelines for production environments
+- Exploring reinforcement learning from human feedback (RLHF) techniques
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arman esmaeili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman esmaeili" height="30" width="40" /></a>
-</p>
+## Open to Collaboration
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanesmaeili&show_icons=true&locale=en&layout=compact" alt="armanesmaeili" /></p>
+I'm interested in working on:
+- Production LLM applications and agent systems
+- Novel fine-tuning approaches and efficiency improvements
+- Research projects at the intersection of NLP and other domains
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanesmaeili&show_icons=true&locale=en" alt="armanesmaeili" /></p>
+Feel free to reach out if you're working on something interesting in the AI space.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanesmaeili&" alt="armanesmaeili" /></p>
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armanesmaeili&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
